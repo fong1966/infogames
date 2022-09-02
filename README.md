@@ -40,3 +40,4 @@ If you want to contribute to this code open a PR or an Issue.
 
 Hope you enjoy it 😊
 
+**flutter:2.5.0

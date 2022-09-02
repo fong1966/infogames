@@ -16,9 +16,9 @@ class HomeLayout extends StatelessWidget {
       padding: const EdgeInsets.only(top: 80.0),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
+        children: const [
           HeaderTitle(),
-          const SizedBox(height: 40.0),
+          SizedBox(height: 40.0),
           ContainerBody(
             children: [
               CategoriesWidget(),
